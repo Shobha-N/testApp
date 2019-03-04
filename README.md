@@ -1,2 +1,2 @@
 # testApp
-testing
+testing app
